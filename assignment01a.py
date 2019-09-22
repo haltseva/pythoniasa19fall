@@ -85,5 +85,14 @@ That killed the rat,
 That ate the malt 
 That lay in the house that Jack built.
 '''
+array1=['This is ','That kept ','That waked ','That married ','That kissed ','That milk\'d ','That tossed ','That worried ','That killed ','That ate ','That lay in ']
+array2=['the farmer sowing his corn,','the cock that crow\'d in the morn,','the priest all shaven and shorn,',
+'the man all tatter\'d and torn,','the maiden all forlorn,','the cow with the crumpled horn,','the dog, ','the cat, ','the rat,',
+'the malt ','the house that Jack built.']
+i=0
+while i< len(array1):
+    print(array1[i]+array2[len(array2)-i]+'\n')
+    print('\n')
+    i+=1
 
-print(poem)
+
