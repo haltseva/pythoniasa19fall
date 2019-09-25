@@ -103,6 +103,7 @@ i='That killed '
 k='That ate '
 l='That lay in '
 
+a1='the farmer sowing his corn,'
 b1='the cock that crow\'d in the morn,'
 c1='the priest all shaven and shorn,'
 d1='the man all tatter\'d and torn,'
